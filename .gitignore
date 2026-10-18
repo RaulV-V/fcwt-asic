@@ -1,0 +1,6 @@
+.venv/
+sim/
+__pycache__/
+*.vcd
+*.fst
+results.xml
